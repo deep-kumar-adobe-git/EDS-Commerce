@@ -1,4 +1,3 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/eds-commerce-test2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Feds%2Dcommerce%2Dtest2%2FShared%20Documents%2FEDS%2DCommerce%2Ddata&viewid=0af15f87%2Dc395%2D4b13%2Da3a0%2D56957d15cb9f
-folders:
+  /: https://adobe.sharepoint.com/:x:/r/sites/eds-commerce-test2/Shared%20Documents/EDS-Commerce-data/configs.xlsx?d=w6d800bea92e74a9fb71079002b679f38&csf=1&web=1&e=qjWuVD
   /products/: /products/default
